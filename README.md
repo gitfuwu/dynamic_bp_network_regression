@@ -1,0 +1,2 @@
+# dynamic_bp_network_regression
+神经网络结构可变的BP回归
